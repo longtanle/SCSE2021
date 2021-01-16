@@ -1,0 +1,37 @@
+{
+    "cs" : [
+        "Computer Vision",
+        "Natural Language Processing",
+        "Machine Learning on Multimedia Data",
+        "Computational Intelligence",
+        "Internet of Things",
+        "Blockchain Technologies",
+        "High Performance Computing",
+        "Software Engineering",
+        "Theoretical Foundation of Computer Science",
+        "Practical AI Applications"
+    ],
+    "ce": [
+        "Multi/Many-core Architectures and Applications",
+        "IoT Architectures and Technologies",
+        "IoT-Enabled Smart Cities",
+        "Accelerated Big Data Systems",
+        "Embedded Systems",
+        "Parallel and Distributed Computing",
+        "Hardware Accelerator Computing",
+        "Rebooting Computing",
+        "Communication Network and Security",
+        "Other in Embedded Systems and VLSI Design"
+    ],
+    "special":[
+        "IoT Computing and Networking",
+        "IoT Trust, Security, and Privacy",
+        "IoT Services and Applications",
+        "Blockchain Technology",
+        "Wireless Networking",
+        "Cooperative Communication",
+        "5G Communication Technology",
+        "Artificial Intelligence",
+        "Data/Video Analytics"
+    ]
+}

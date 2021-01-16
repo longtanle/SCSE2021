@@ -1,0 +1,164 @@
+{
+    "steeringCommittee": [
+        {
+            "name": "Pham Tran Vu", 
+            "place" : "HCMC University of Technology, Vietnam"
+        },
+        {
+            "name": "Koichiro Ishibashi", 
+            "place" : "The University of Electro-Communications, Japan"
+        },
+        {
+            "name": "Eryk Dutkiewicz", 
+            "place": "University of Technology Sydney, Australia"
+        },
+        {
+            "name": "Ing-Chao Lin", 
+            "place" : "National Cheng Kung University, Taiwan"
+        }  
+    ],
+
+    "programChair":[
+        {
+            "name": "Tran Ngoc Thinh", 
+            "place": "HCMC University of Technology, Vietnam"
+        },
+        {
+            "name": "Pham Quoc Cuong", 
+            "place":"HCMC University of Technology, Vietnam"
+        },
+        {
+            "name": "Ha Manh Tran", 
+            "place": "Hong Bang International University, Vietnam"
+        }
+    ],
+
+    "publicationChair":[
+        {
+            "name": "Huynh Tuong Nguyen", 
+            "place": "HCMC University of Technology, Vietnam"
+        },
+        {
+            "name": "Pham Hoang Anh", 
+            "place": "HCMC University of Technology, Vietnam"
+        },
+        {
+            "name": "Van Sinh Nguyen", 
+            "place": "HCMC International University, Vietnam"
+        }
+    ],
+
+    "publicityChair":[
+        {
+            "name": "Tran Trung Hieu", 
+            "place": "University of Tromsø, Norway"
+        },
+        {
+            "name": "Le Trong Nhan", 
+            "place": "HCMC University of Technology, Vietnam"
+        }
+    ],
+
+    "localCommittee":[
+        {
+            "name": "Pham Quoc Cuong", 
+            "place": "HCMC University of Technology, Vietnam"
+        },
+        {
+            "name": "Le Thanh Sach", 
+            "place": "HCMC University of Technology, Vietnam"
+        }
+
+    ],
+
+    "programCommittee":[
+        {
+            "name": "Kazuhiko Hamamoto", 
+            "place": "Tokai University, Japan"
+        },
+        {
+            "name": "Tran Van Hoai", 
+            "place": "HCMC University of Technology, Vietnam"
+        },
+        {
+            "name": "Koichiro Ishibashi", 
+            "place": "The University of Electro-Communications, Japan"
+        },
+        {
+            "name": "Hiroshi Ishii", 
+            "place": "Tokai University, Japan"
+        },
+        {
+            "name": "Cong-Kha Pham", 
+            "place": "The University of Electro-Communications, Japan"
+        },
+        {
+            "name": "Ha Manh Tran", 
+            "place": "Hong Bang International University, Vietnam"
+        },
+        {
+            "name": "Le Thanh Sach", 
+            "place": "HCMC University of Technology, Vietnam"
+        },
+        {
+            "name": "Quan Thanh Tho",
+            "place": "HCMC University of Technology, Vietnam"
+        },
+        {
+            "name": "Shigenori Tomiyama", 
+            "place": "Tokai University, Japan"
+        },
+        {
+            "name": "Minh-Triet Tran", 
+            "place": "HCMC University of Science, Vietnam"
+        },
+        {
+            "name": "Pham Tran Vu", 
+            "place": "HCMC University of Technology, Vietnam"
+        },
+        {
+            "name": "Nguyen Duc Dung", 
+            "place": "HCMC University of Technology, Vietnam"
+        },
+        {
+            "name": "Nguyen An Khuong", 
+            "place": "HCMC University of Technology, Vietnam"
+        },
+        {
+            "name": "Nguyen-Tran Huu-Nguyen", 
+            "place": "HCMC University of Technology, Vietnam"
+        },
+        {
+            "name": "Ing-Chao Lin", 
+            "place": "National Cheng Kung University, Taiwan"
+        },
+        {
+            "name": "Nguyen Le Duy Lai", 
+            "place": "HCMC University of Technology, Vietnam"
+        },
+        {
+            "name": "Van Sinh Nguyen", 
+            "place": "HCMC International University, Vietnam"
+        },
+        {
+            "name": "Le Trong Nhan", 
+            "place": "HCMC University of Technology, Vietnam"
+        },
+        {
+            "name": "Tuan Duy Anh Nguyen", 
+            "place": "Technische Universität Dresden, Germany"
+        },
+        {
+            "name": "Pham Hoang Anh", 
+            "place": "HCMC University of Technology, Vietnam"
+        },
+        {
+            "name": "Nguyen Ho Man Rang", 
+            "place": "Ho Chi Minh University of Technology, Vietnam"
+        },
+        {
+            "name": "Surin Kittitornkun", 
+            "place": "King Mongkut's Institute of Technology Ladkrabang, Thailand"
+        }
+    ]
+}
