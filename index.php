@@ -108,7 +108,7 @@ if ($json_a === null) {
                     <span class="icon-ar icon-ar-lg icon-ar-round icon-ar-inverse"><i class="fa fa-calendar"></i></span>
                     <h4 class="content-box-title"><b>Important Dates</b></h4>
                     <p>Paper submission deadline: <br> <strong> May 30, 2021 </strong> </p>
-                    <a href="/committee/generalChair" class="button button-rounded button-primary">Detail</a>
+                    <a href="submission.php" class="button button-rounded button-primary">Detail</a>
                 </div>
             </div>
             <div class="col-md-3 col-sm-6">
@@ -116,7 +116,7 @@ if ($json_a === null) {
                     <span class="icon-ar icon-ar-lg icon-ar-round icon-ar-inverse"><i class="fa fa-users"></i></span>
                     <h4 class="content-box-title"><b>Committees</b></h4>
                     <p>Take a look at our committees for the SCSE 2021! </p>
-                    <a href="/committee/generalChair" class="button button-rounded button-caution">Detail</a>
+                    <a href="committee.php" class="button button-rounded button-caution">Detail</a>
                     <!-- <button type="button" class="btn btn-ar btn-lg btn-info">Check out</button> -->
                 </div>
             </div>
@@ -125,7 +125,7 @@ if ($json_a === null) {
                     <span class="icon-ar icon-ar-lg icon-ar-round icon-ar-inverse"><i class="fa fa-comments"></i></span>
                     <h4 class="content-box-title"><b>Topics of Interest</b></h4>
                     <p>The conference will be organized into tracks with different topics.</p>
-                    <a href="/committee/generalChair" class="button button-rounded button-highlight">Detail</a>
+                    <a href="track.php" class="button button-rounded button-highlight">Detail</a>
                 </div>
             </div>
 
@@ -466,23 +466,7 @@ if ($json_a === null) {
     <a href="#header"><i class="fa fa-chevron-up"></i></a>
 </div>
 <!-- Scripts -->
-<!-- Compiled in vendors.js -->
-<!--
-<script src="assets/js/jquery.min.js"></script>
-<script src="assets/js/jquery.cookie.js"></script>
-<script src="assets/js/imagesloaded.pkgd.min.js"></script>
-<script src="assets/js/bootstrap.min.js"></script>
-<script src="assets/js/bootstrap-switch.min.js"></script>
-<script src="assets/js/wow.min.js"></script>
-<script src="assets/js/slidebars.min.js"></script>
-<script src="assets/js/jquery.bxslider.min.js"></script>
-<script src="assets/js/holder.js"></script>
-<script src="assets/js/buttons.js"></script>
-<script src="assets/js/jquery.mixitup.min.js"></script>
-<script src="assets/js/circles.min.js"></script>
-<script src="assets/js/masonry.pkgd.min.js"></script>
-<script src="assets/js/jquery.matchHeight-min.js"></script>
--->
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js" integrity="sha512-DUC8yqWf7ez3JD1jszxCWSVB0DMP78eOyBpMa5aJki1bIRARykviOuImIczkxlj1KhVSyS16w2FSQetkD4UU2w==" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha512-iztkobsvnjKfAtTNdHkGVjAYTrrtlC7mGp/54c40wowO7LhURYl3gVzzcEqGl/qKXQltJ2HwMrdLcNUdo+N/RQ==" crossorigin="anonymous"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.1.4/owl.carousel.min.js" integrity="sha512-rNeh6QiM0fv82N5V7elDHDIZAmUOB6XCat3a/pNTCP6zFqZJ1yEoCtWVmkp223CsmeJfpyXfPu5z9bWu3cWF0Q==" crossorigin="anonymous"></script>
